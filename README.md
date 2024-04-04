@@ -45,7 +45,7 @@ docker run souluanf/stress-test:latest --url=https://httpstat.us/Random/200,201,
 1. Clone o repositório:
    ```bash
    git clone https://github.com/souluanf/stress-test-fc.git
-   cd  cd stress-test-fc
+   cd  stress-test-fc
    ```
 2. Build a imagem:
    ```bash
